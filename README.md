@@ -5,5 +5,5 @@ This is the place where I opensource stuff
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning flutter
 - 💬 Ask me about JavaScript
-- 📫 How to reach me: [书月秋亭](shuyueqiuting@hotmail.com)
+- 📫 How to reach me: shuyueqiuting@hotmail.com
 
