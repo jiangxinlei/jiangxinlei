@@ -1,0 +1,11 @@
+- name: wakatime
+  uses: athul/waka-readme@0.1.3
+  with:
+    # GitHub access token with Repo scope
+    GH_TOKEN: # default is ${{ github.token }}
+    # Your Wakatime API Key
+    WAKATIME_API_KEY: 
+    # Your GitHub username
+    USERNAME: # optional, default is ${{ github.repository_owner }}
+    # Displays the week number and days in Readme as title
+    SHOW_TITLE: # optional
