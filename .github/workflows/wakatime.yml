@@ -1,4 +1,4 @@
-- name: wakatime
+- name: Waka - Readme
   uses: athul/waka-readme@0.1.3
   with:
     # GitHub access token with Repo scope
