@@ -7,4 +7,4 @@ This is the place where I opensource stuff
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: shuyueqiuting@hotmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jiangxinlei)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jiangxinlei&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
